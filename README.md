@@ -48,6 +48,7 @@ Proyecto InnoSocial: Fake News
 - posibilidad de herramientas y links de redes sociales FB YT IG 
 - - compartir articulo (desmentido) en redes sociales
 - Link de descargas de aplicacion para Android /Ios
-  - Caja de comentarios (Con sección de comentarios relevantes).
+  -  Caja de comentarios (Con sección de comentarios relevantes).
+  -Botón para reportar publicaciones de fake  
  
 
