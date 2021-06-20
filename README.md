@@ -40,11 +40,14 @@ Proyecto InnoSocial: Fake News
 ##### Estructura página:
 - Index / Home
 - Últimas fake news organizadas por categorías
+  - Organizadas por país 
 - Verificador / Contacto
 - Banner de uso de cookies / sesion
 - La pagina debe tener un buscador que use varios proveedores de busquedas como google, yahoo, duckduckgo, para poder introducir busquedas de texto / imagenes
 - debe contener las ultimas fake news trending topic
 - posibilidad de herramientas y links de redes sociales FB YT IG 
+- - compartir articulo (desmentido) en redes sociales
 - Link de descargas de aplicacion para Android /Ios
   - Caja de comentarios (Con sección de comentarios relevantes).
+ 
 
