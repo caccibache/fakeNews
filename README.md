@@ -40,3 +40,9 @@ Proyecto InnoSocial: Fake News
 - Index / Home
 - Últimas fake news organizadas por categorías
 - Verificador / Contacto
+- Banner de uso de cookies / sesion
+- La pagina debe tener un buscador que use varios proveedores de busquedas como google, yahoo, duckduckgo, para poder introducir busquedas de texto / imagenes
+- debe contener las ultimas fake news trending topic
+- 
+
+- 
