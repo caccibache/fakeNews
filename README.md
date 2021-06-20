@@ -53,4 +53,9 @@ Proyecto InnoSocial: Fake News
   -  Caja de comentarios (Con sección de comentarios relevantes).
   -Botón para reportar publicaciones de fake  
  
+ ## Apariencia
+ 
+ - Color: Azul cielo (se que el azul es un color que da confianza)
+ - Sitio amigable, sin mucha letra en el front
+ - Ardilla como logo (creo que es un animal astuto) no sé jaja
 
