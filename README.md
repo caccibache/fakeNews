@@ -30,7 +30,8 @@ Proyecto InnoSocial: Fake News
 - Verificador de fake news
 - Atención al usuario
 - Buscador
-- 
+  - implementación de tipo debates (vituales acerca del tema).
+  - Técnicas de deteccion de fake news (tipo guia)
 ##### Imperativos legales:
 - Términos de uso
 - POlíticas de cookies
@@ -45,5 +46,5 @@ Proyecto InnoSocial: Fake News
 - debe contener las ultimas fake news trending topic
 - posibilidad de herramientas y links de redes sociales FB YT IG 
 - Link de descargas de aplicacion para Android /Ios
+  - Caja de comentarios (Con sección de comentarios relevantes).
 
-- 
