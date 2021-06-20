@@ -1,6 +1,13 @@
 # Fake News
 Proyecto InnoSocial: Fake News
-
+## Propuesta nombre:
+1. 
+2.
+3.
+4.
+5.
+6.
+7.
 
 ## Google Forms
 ###### Objetivos
