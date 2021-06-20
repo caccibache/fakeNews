@@ -34,7 +34,7 @@ Proyecto InnoSocial: Fake News
   - Técnicas de deteccion de fake news (tipo guia)
 ##### Imperativos legales:
 - Términos de uso
-- POlíticas de cookies
+- Políticas de cookies
 - Políticas de privacidad
 
 ##### Estructura página:
